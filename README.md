@@ -1,3 +1,3 @@
-My first readme
+ALX ain't easy bruh...
 # alx-pre_course
 # alx-pre_course
